@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pighin.santiago@gmail.com
+	name = Santiago Pighin
