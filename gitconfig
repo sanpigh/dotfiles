@@ -53,5 +53,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = pighin.santiago@gmail.com
-	name = Santiago Pighin
+	email = 
+	name = echo $GITHUB_USERNAME
